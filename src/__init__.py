@@ -1,0 +1,3 @@
+"""
+Drug Approval Analysis package.
+"""
