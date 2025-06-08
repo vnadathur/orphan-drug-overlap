@@ -12,3 +12,7 @@ FDA_RAW = RAW / "fda_orphan_drugs.csv"
 
 CDSCO_CLEAN = PROC / "cdsco_clean.parquet"
 FDA_CLEAN = PROC / "fda_clean.parquet"
+
+# Added for combination drug support
+CDSCO_EXPLODED = PROC / "cdsco_exploded.parquet"
+FDA_VOCAB_PATH = PROC / "fda_api_vocab.pkl"

@@ -1,3 +1,5 @@
 """
-Drug Approval Analysis package.
+Root package for the orphan drug overlap analysis project.
 """
+
+# src package for module imports
